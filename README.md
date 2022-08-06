@@ -106,7 +106,7 @@ output_directory/
 
 ## Team Members
 
-Vasileios Alevizos | vasileios.alevizos@ki.se | Karolinska Institutet, iKnowHow valevizos@iknowhow.com | Team Leader
-Vanessa Xiao | vzxiao@mit.edu | MIT | Team Member
-Yishu Qu | YishuQu2024@u.northwestern.edu | Northwestern University | Team Member
-Alexus Acton | actonam@uab.edu | UAB | Team Member
+- Vasileios Alevizos | vasileios.alevizos@ki.se | Karolinska Institutet, iKnowHow valevizos@iknowhow.com | Team Leader
+- Vanessa Xiao | vzxiao@mit.edu | MIT | Team Member
+- Yishu Qu | YishuQu2024@u.northwestern.edu | Northwestern University | Team Member
+- Alexus Acton | actonam@uab.edu | UAB | Team Member
