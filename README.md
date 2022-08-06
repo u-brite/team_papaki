@@ -28,7 +28,7 @@ Breast cancer is the second most common cancer among women in the United States.
 
 ## Data
 
-:exclamation: _Discuss the data you used and how it can be accessed._ :exclamation:
+The datasets are freely available on https://tcga-data.nci.nih.gov/.
 
 ## Usage
 
@@ -50,17 +50,16 @@ git clone -b main \
 ```
 
 ### Requirements
-:exclamation: _Note any software used (including Python or R packages), operating system requirements, etc. and its version so that your project is reproducible. It does not have to be in the below format_ :exclamation:
 
-*OS:*
+All the requirements for python scripts are located in `requirements.txt` file.
+
+Has been tested in Linux (ubuntu) and Windows 11.
 
 Currently works only in Linux OS. Docker versions may need to be explored later to make it useable in Mac (and
 potentially Windows).
 
 *Tools:*
 
-- Anaconda3
-    - Tested with version: 2020.02
 - Python
 - Jupyter Notebooks
 - R 
