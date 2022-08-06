@@ -103,3 +103,5 @@ logs/
 .java/
 
 /.vscode/settings.json
+
+.data
