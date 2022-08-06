@@ -5,7 +5,7 @@
 
 ## Table of Contents
 
-- [Template](#team-repo-template)
+- [Content](#Content)
     - [Background](#Background)
     - [Data](#data)
     - [Usage](#usage)
