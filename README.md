@@ -22,6 +22,10 @@
 ## Background
 Breast cancer is the second most common cancer among women in the United States. Breast cancer is highly heterogeneous, composed of different subtypes, with different clinical, pathological, and molecular characteristics, as well as prognostic and therapeutic significance. Considering the significant variance in breast cancer outcomes, it is important to accurately predict the survival and prognosis of the breast cancer patients. Prediction of survival or prognosis can facilitate precision medicine of breast cancer. Many deep learning methods have been proposed to cancer prognosis prediction using genomic information, but most of them focus on a single-layer of omics data, where gene expression (mRNA) is most commonly used. Currently, there are some existing tools using autoencoders to intergrate multi-omics data for cancer prognosis prediction. Our team aims to compare these existing algorisms and advance and optimize the methods for better utilities. 
 
+## Framework and workflow
+
+![Workflow](https://github.com/u-brite/team_papaki/blob/main/Pipeline%20Workflow.png)
+
 ## Data
 
 :exclamation: _Discuss the data you used and how it can be accessed._ :exclamation:
