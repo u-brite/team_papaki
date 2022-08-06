@@ -106,5 +106,7 @@ output_directory/
 
 ## Team Members
 
-Tarun Mamidi | tmamidi@uab.edu | Team Leader  
-Shaurita Hutchins | shutchins@uab.edu | Co-leader
+Vasileios Alevizos | vasileios.alevizos@ki.se | Karolinska Institutet, iKnowHow valevizos@iknowhow.com | Team Leader
+Vanessa Xiao | vzxiao@mit.edu | MIT | Team Member
+Yishu Qu | YishuQu2024@u.northwestern.edu | Northwestern University | Team Member
+Alexus Acton | actonam@uab.edu | UAB | Team Member
