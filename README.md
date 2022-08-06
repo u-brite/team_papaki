@@ -116,3 +116,4 @@ output_directory/
 - Vanessa Xiao | vzxiao@mit.edu | MIT | Team Member
 - Yishu Qu | YishuQu2024@u.northwestern.edu | Northwestern University | Team Member
 - Alexus Acton | actonam@uab.edu | UAB | Team Member
+- Zongliang Yue | zongyue@uab.edu | UAB | Team Member
