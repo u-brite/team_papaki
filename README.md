@@ -32,22 +32,7 @@ The datasets are freely available on https://tcga-data.nci.nih.gov/.
 
 ## Usage
 
-:exclamation: _How will someone not involved in your project be able to run the code or use it._ :exclamation:
-
-### Installation
-
-:exclamation: _If installation is required, please mention how to do so here._ :exclamation:
-
-Installation simply requires fetching the source code. Following are required:
-
-- Git
-
-To fetch source code, change in to directory of your choice and run:
-
-```sh
-git clone -b main \
-    git@github.com:u-brite/team-repo-template.git
-```
+Feel free to take a look at the jupyter notebook and the instructions of forked repositories.
 
 ### Requirements
 
