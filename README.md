@@ -36,9 +36,6 @@ All the requirements for python scripts are located in `requirements.txt` file.
 
 Has been tested in Linux (ubuntu) and Windows 11.
 
-Currently works only in Linux OS. Docker versions may need to be explored later to make it useable in Mac (and
-potentially Windows).
-
 *Tools:*
 
 - Python
