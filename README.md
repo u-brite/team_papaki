@@ -25,7 +25,7 @@ Breast cancer is the second most common cancer among women in the United States.
 
 ## Data
 
-The datasets are freely available on https://tcga-data.nci.nih.gov/.
+The breast cancer datasets are publicly available on the Cancer Genome Atlas (TCGA) (https://tcga-data.nci.nih.gov/tcga/). The datasets could be downloaded through the R package “TCGAassembler 2” v2.0.6. The datasets contained four types of multi-omics data: mRNA, miRNA, DNA methylation, and copy number variation.
 
 ## Usage
 
