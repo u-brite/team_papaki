@@ -10,8 +10,8 @@
     - [Data](#data)
     - [Usage](#usage)
         - [Installation](#installation)
-        - [Requirements](#requirements) _Can be named Dependencies as well_
-    - [Results](#results) _Optional depending on project_
+        - [Requirements](#requirements)
+    - [Results](#results)
     - [Team Members](#team-members)
 
 ## Background
