@@ -1,8 +1,7 @@
 # Cancer survival prediction and integration of multi-omics integration with Supervised Autoencoders, Stacked Autoencoders and Concrete Supervised Autoencoders for multiple correlated driver genes
 
-:exclamation: _This top heading should be the name of your project i.e. BiocSwirl or SNVariome. Anything between 2 exclamation marks is intended to be deleted. Any content that isn't a heading or an optional heading can be deleted as well. The structure of this readme is open to any creative changes, but the main components of Background/Data/Usage/Team Members should remain. You're free to add images and get creative about how you want your readme to look._ :exclamation:
+ _Performance of multi-omics measurements and prediction for cancer survival integrating harmonized RNA sequencing from the ROSMAP cohort using supervised autoencoders with paralledged generative adversarial networks (GAN) based manifold omics analysis without priors. The most significant parameter during cancer therapy is survival analysis for revealing clinically significant biomarkers to stratify biological agents. Supervised encoders could facilitate accurate diagnosis of complex diseases and survival progression at multiple genetic levels. Multi-stage dimensionality based models may scale up time execution in comparison to state-of-the-art alternatives._
 
-:exclamation: _The `configs` and `notebooks` directories are also optional. We recommend taking a look at [cookiecutter for datascience](https://github.com/drivendata/cookiecutter-data-science) or [cookiecutter for computational biology](https://github.com/drivendata/cookiecutter-data-science) to get ideas on structuring your projects. Also, use a `.gitignore` that fits the main programming language of your project._ :exclamation:
 
 ## Table of Contents
 
