@@ -56,6 +56,11 @@ potentially Windows).
 
 - Anaconda3
     - Tested with version: 2020.02
+- Python
+- Jupyter Notebooks
+- R 
+- DeepProg package
+- DCAP autoencoders
 
 ### Activate conda environment
 :exclamation: _Optional: Depends on project._ :exclamation:
