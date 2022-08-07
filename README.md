@@ -50,7 +50,7 @@ Has been tested in Linux (ubuntu) and Windows 11.
 
 ## Team Members
 
-- Vasileios Alevizos | vasileios.alevizos@ki.se valevizos@iknowhow.com| Karolinska Institutet, iKnowHow | Team Leader
+- Vasileios Alevizos | vasileios.alevizos@ki.se, valevizos@iknowhow.com| Karolinska Institutet, iKnowHow | Team Leader
 - Vanessa Xiao | vzxiao@mit.edu | MIT | Team Member
 - Yishu Qu | YishuQu2024@u.northwestern.edu | Northwestern University | Team Member
 - Alexus Acton | actonam@uab.edu | UAB | Team Member
