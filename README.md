@@ -46,7 +46,9 @@ Has been tested in Linux (ubuntu) and Windows 11.
 - DCAP autoencoders
 
 ## Results
-:exclamation: _If your project yielded or intends to yield some novel analysis, please include them in your readme. It can be named something other than results as well._ :exclamation:
+
+This project field the need for more robust cancer subtype diagnosis using deep learning methods such as DCAP (A framework to integrate multi-omics data by Denoising Autoencoder for Accurate cancer prognosis prediction) concluding mRNA performance better in comparisson to miRNA, methylation and following CNV (Copy Number Variation). These constructed models could distinguish high-risk patients from low-risk by identifying at the same time breast cancer related biomarkers. Room for performance and improvements still exists while this empirical results might be utilized to impact hitherto patients.
+
 
 ## Team Members
 
